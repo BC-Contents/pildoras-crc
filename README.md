@@ -23,7 +23,7 @@
 
 ## Angular (Jonathan)
 - [Presentación]()
-- [Código]()
+- [Código](https://github.com/Cynox336/angular-pildora)
 
 ## Astro (José)
 - [Presentación]()
@@ -34,6 +34,7 @@
 - [Código]()
 
 ## SOLID (Ángel,Juliana,Rubén Garcia, Renata y Jorge)
+- [Presentación Ángel S]([https://docs.google.com/presentation/d/1vUnSar1EsEsBxjIY-CZ6OS7kZQIJP4A3NnF_9khqfuU/edit?usp=sharing](https://1drv.ms/p/c/443d694da42e0a6d/IQDN8H2exqr0QaFGaHSKfLLTAamM12dv6Yb6wjGAab0eC-A?e=UbhlZH))
 - [Presentación Juliana O](https://docs.google.com/presentation/d/1vUnSar1EsEsBxjIY-CZ6OS7kZQIJP4A3NnF_9khqfuU/edit?usp=sharing)
 - [Presentación Ruben L](https://drive.google.com/file/d/1AEJRST859btbCu-_HG4CQ-eOQ9sHJCSV/view?usp=sharing)
 - [Presentación Renata I](https://1drv.ms/p/c/bbb39a9847496e08/IQBHlyf3Gvi4TI8N7j17KMKhAdVqybpokA3Rmc_EfAg8294)
@@ -43,28 +44,28 @@
 - [Código Jorge D](https://github.com/jorgem610/D)
 
 ## Modelos de IA y Streaming de Respuestas (SSE) (Alba)
-- [Presentación]()
-- [Código]()
+- [Presentación](https://docs.google.com/presentation/d/1aZCbnpqibPpdJKjB38QSzaxlDOl-pXki0hWLRQ0Em2Q/edit?usp=sharing)
+- [Código](https://github.com/albavalentinn/demo-sse)
 
 ## Docker (Brelin)
-- [Presentación]()
-- [Código]()
+- [Presentación](https://onedrive.live.com/:p:/g/personal/4F2506ECB292CB51/IQC8mmD7EpCxQJMipRAv3yntAeU6Y58CqjQmI4RPd8uqVOs?resid=4F2506ECB292CB51!sfb609abc901240b19322a5102fdf29ed&ithint=file%2Cpptx&e=kuUbaB&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy80ZjI1MDZlY2IyOTJjYjUxL0lRQzhtbUQ3RXBDeFFKTWlwUkF2M3ludEFlVTZZNThDcWpRbUk0UlBkOHVxVk9zP2U9a3VVYmFC)
+- [Código](https://github.com/brelinsx/pildora-docker)
 
 ## Go (Adrian)
-- [Presentación]()
-- [Código]()
+- [Presentación](https://docs.google.com/presentation/d/1KgimLzOIp1ul1WNvdR-pIS6zwLwOcn26/edit?slide=id.p1#slide=id.p1)
+- [Código](https://github.com/DesarrolloWebFullStackIA/pildora-go)
 
 ## MCP/WebMcp (Rubén Gato)
-- [Presentación]()
-- [Código]()
+- [Presentación](https://docs.google.com/presentation/d/1HnCh8PVd8UdOxQUD12Wo5k7oX8c-DB1y/edit?usp=sharing&ouid=113046945705795682083&rtpof=true&sd=true)
+- [Código](https://github.com/rubby18/MCP_pildora)
 
 ## Accesibilidad (Ainara)
 - [Presentación]()
 - [Código]()
 
 ##  Analisis de datos con python y numpy (Abel)
-- [Presentación]()
-- [Código]()
+- [Presentación](https://docs.google.com/presentation/d/1oQ-LHxVvZJfSV_TJIeaNhwVfZJ9zgSYM6M8iydqMBKw/edit?slide=id.p7#slide=id.p7)
+- [Código](https://github.com/randombelo/Pildora_Numpy)
 
 ## Rag y Base de datos vectoriales (Sebástian)
 - [Presentación]()
